@@ -1,30 +1,86 @@
 1.What is Computer?
-It is a machine that is designed and supported with both hardware and software systems to do specific tasks to/ help serve the user's needs. The computer processes information that is requested by the user and carries them out to do what the user has commandeds to ask, depending on what computer systems is under, it is able to perform simple tasks request to harder and complex commands. The computer is a machine programmed to help and assists humans in their lives, humans create and invent different kinds of machinery as a tool to help them out in their daily life, and the computer is one of those but, what separates them
+It is a machine that is designed and supported with both hardware and software systems to do specific tasks to/ help 
+serve the user's needs. The computer processes information that is requested by the user and carries them out to
+do what the user  has commandeds to ask, depending on what computer systems is under, it is able to perform 
+simple tasks request to harder and complex commands. The computer is a machine programmed to help and assists humans
+in their lives, humans create and invent  different kinds of machinery as a tool to help them out in their daily 
+lives, and the computer is one of those inventions that try to attempt in helping humans.
 
 
 2.What are the essential parts of computer
-Central Processing Unit (CPU)- it is the one that takes and processes information, very similar to how the human brain works. It breaks down and receives information so the computer can communicate back by responding to the data.
-Motherboard- it is the one of the most important thing in a computer hardware, is the motherboard. The Motherboard is the element of the computer hardware that holds every hardware together in one place, it helps piece things together in order for the computer to be whole. The Motherboard can come in different varieties meaning that each Motherbaord can make have different design on the computer system itself. Like different circuit designs, different wire connections, etc.
+Central Processing Unit (CPU)- It is the human brain of the computer. Its functions is to process problems and break 
+down information and also do commands to make actions to do normal computer tasks for the user. Modern CPUs nowadays
+are more advanced which makes systems perform faster without abusing the computer itself.
+
+Motherboard- it is the one of the most important thing in a computer hardware, is the motherboard. The Motherboard
+is the element of the computer hardware that holds every hardware together in one place, it helps piece things 
+together in order for the computer to be whole. The Motherboard can come in different varieties meaning 
+that each Motherbaord can make have different design on the computer system itself. Like different circuit 
+designs, different wire connections, etc.
+
+Random Access Memory (RAM)- It is the device that is able to store data and information. It is able to make the
+computer stay relevant and updated at all times. This helps the computer to always remember its functions. With 
+this device this makes the computer always feel fresh and  because of this, it makes the computer less prone to 
+errors or any disfunctions and is ready to accept new and more data stored. But the downside of this it is only
+temporary.
+
+Cooling fan- When a computer is being used it produces heat in the hardware, but sometimes the computer would
+overheat that it would be in critical condition if to continue to be sued. Thankfully there is a cooling fan
+is there to help to maintain the computer's heat, the fan will help the computer stay in stable use and can stay
+functional for the user to used. But the cooling fan only has limited power and it would not be able enough to
+cool down the computer's heat itself.
 
 
 3. Who are the notable inventors of hardware and software? Cite (5) software developers and (5) hardware developers
-Computers have come so far in evolving and has become one of the most useful and important things in our modern generations, and it would not come this far if it was not for the people who help contribute in the industry itself. here are 5 notable software and hardware  developers
+Computers have come so far in evolving and has become one of the most useful and important things in our modern 
+generations, and it would not come this far if it was not for the people who help contribute in the industry 
+itself. here are 5 notable software and hardware  developers
 
 *Software developers*
-I.Linus Torvads- Known as the founding father of the the Linux Operating System, He created it because he needed a new programming system for his MS-DOS-driven PC at that time, he wanted to create a similar Unix operating system, with his programming experience from when he was in college, he was able to make it possible and then share it to the world and he has know become one of the most famous software developers in the world.
+I.Linus Torvads- Known as the founding father of the the Linux Operating System, He created it because he needed a 
+new programming system for his MS-DOS-driven PC at that time, he wanted to create a similar Unix operating system, 
+with his programming experience from when he was in college, he was able to make it possible and then share it to 
+the world and he has know become one of the most famous software developers in the world.
 
-II.Dennis Ritchie- He was known to be the father of C programming language, this all happened in the early days when the Dennis was helping to develop Unix, Ritchie began modifying B programming language, adding data and syntax characteristics that turned B into the famously known C programming in 1972. Unix components were at first written in B, but then slowly turned into C programming language,. And because of this, C programming became one of the most important and useful programs to have ever existed.
+II.Dennis Ritchie- He was known to be the father of C programming language, this all happened in the early days when 
+the Dennis was helping to develop Unix, Ritchie began modifying B programming language, adding data and syntax 
+characteristics that turned B into the famously known C programming in 1972. Unix components were at first written 
+in B, but then slowly turned into C programming language,. And because of this, C programming became one of the most 
+important and useful programs to have ever existed.
 
-III.James Gosling- the person who made the Java programming language, the java programming language started in 1991 as a project as Gosling tries to create a new programming language with a few of his colleagues that aimed towards the technology trends of digital divergence in TVs, computers, telephones, set-top boxes, and other embedded systems. Java is know mostlty used in many different devices and applications such as desktop computing, scientific studies, enterprise applications, web servers, embedded systems, and mobile devices and is widely used in computer science education.
+III.James Gosling- the person who made the Java programming language, the java programming language started in 1991 
+as a project as Gosling tries to create a new programming language with a few of his colleagues that aimed towards 
+the technology trends of digital divergence in TVs, computers, telephones, set-top boxes, and other embedded systems. 
+Java is know mostlty used in many different devices and applications such as desktop computing, scientific studies, 
+enterprise applications, web servers, embedded systems, and mobile devices and is widely used in computer science 
+education.
 
-IV.Ada Lovelace- The very first computer programmer according to history, she was the reason as to why computer coding thrive and has open doors and opportunities for coding to evolve. This all started when computers were introduced by Charles Babbage, computers were only limited to function with mathematical languages, but Lovelace was able to discover and invent a coding languages that can be programmed other than just using mathematical languages, and so that is how she revolutionized the coding language itself
+IV.Ada Lovelace- The very first computer programmer according to history, she was the reason as to why computer coding 
+thrive and has open doors and opportunities for coding to evolve. This all started when computers were introduced by 
+Charles Babbage, computers were only limited to function with mathematical languages, but Lovelace was able to discover 
+and invent a coding languages that can be programmed other than just using mathematical languages, and so that is how 
+she revolutionized the coding language itself.
 
-V.Bjarne Stroustrup- He was the man who develop making the c++ program language. He created this language for users to more accessibility with creating very advanced coding to focus on more than the hardware required. With the use of the c programming language he tried to enhance the language itself and it resulted into the creation of c++ we know today. He created the c++ programming when he was doing work for his Ph.D. thesis in Bell Labs back in the year 1979
+V.Bjarne Stroustrup- He was the man who develop making the c++ program language. He created this language for users to 
+more accessibility with creating very advanced coding to focus on more than the hardware required. With the use of the 
+c programming language he tried to enhance the language itself and it resulted into the creation of c++ we know today. 
+He created the c++ programming when he was doing work for his Ph.D. thesis in Bell Labs back in the year 1979
 
 *Hardware developers*
-I.Charles Babbage- the man who invented computers, he was the man that revolutionzed technology itself, and has became one of the most used machinery in our modern day.
+I.Charles Babbage- the man who invented computers, he was the man that revolutionzed technology itself, and has became
+one of the most used machinery in our modern day. He is a mathematician and for the most part, only thought calculus 
+functions. Around that time Babbage invented a machine that can difference machine where it does mathematical tables
+for the user, then he thought of creating a machine that can perform any mathematical tasks. Which is he called it the 
+Analytical engine, it had very similar functions to the computer we know today. But sadly his idea was too advance at 
+that time and sadly his invention showed only results he did not want. Although Babbage's Analytical engine did not 
+came true, George Scheutz was able to adapt his invention and make come to reality.
 
-II.
+
+II.Georg Scheutz- He was the man that was able to make a the first workable computer, something that Charles Babbage 
+tried to create. He was the man that also invented the first printing calculator. It is a machine that is able to
+perform mathematical differencial tasks. The reason for this invention was that he was inspired by Charles Babbage's
+contributions and decided to follow his footsteps.
+
 
 III.
 
@@ -35,15 +91,31 @@ V.
 
 4.Cite you reference/s (APA/IEEE)
 References:
-Margaret R. (2024, Jan 29). "What is a Computer? Everything You Need To Know". Techopedia. https://www.techopedia.com/definition/4607/computer
+Margaret R. (2024, Jan 29). What is a Computer? Everything You Need To Know. Techopedia. 
+https://www.techopedia.com/definition/4607/computer
 
-HP Online Store (2022, Oct 6). "5 Most Important Components of a Computer". hp.com. https://www.hp.com/my-en/shop/tech-takes/post/most-important-computer-components
+HP Online Store (2022, Oct 6). 5 Most Important Components of a Computer. 
+hp.com. https://www.hp.com/my-en/shop/tech-takes/post/most-important-computer-components
 
-Lemelson-mit (n.d.). "Linus Torvalds Linux Operating System Computing and Telecommunications". lemelson.mit.edu. https://lemelson.mit.edu/resources/linus-torvalds
+Lemelson-mit (n.d.). Linus Torvalds Linux Operating System Computing and Telecommunications. 
+lemelson.mit.edu. https://lemelson.mit.edu/resources/linus-torvalds
 
-Lemeslon-mit (n.d.). "Dennis Ritchie Programming Language “C”" Computing and Telecommunications. lemelson.mit.edu. https://lemelson.mit.edu/resources/dennis-ritchie#:~:text=Early%20in%20the%20development%20of,foundation%20for%20the%20system's%20portability.
+Lemeslon-mit (n.d.). Dennis Ritchie Programming Language “C” Computing and Telecommunications. 
+lemelson.mit.edu. https://lemelson.mit.edu/resources/dennis-ritchie#:~:text=Early%20in%20the%20development%20of,foundation%20for%20the%20system's%20portability.
+
 CHM (2019). James Gosling, https://computerhistory.org/profile/james-gosling/
 
-Lemeslon-mit (n.d.). "Ada Lovelace Computer Algorithm Computing and Telecommunications". lemelson.mit.edu. https://lemelson.mit.edu/resources/ada-lovelace#:~:text=Ada%20Lovelace%2C%20an%20English%20mathematician,larger%20potential%20than%20mathematical%20calculation.
+Lemeslon-mit (n.d.). Ada Lovelace Computer Algorithm Computing and Telecommunications. 
+lemelson.mit.edu. https://lemelson.mit.edu/resources/ada-lovelace#:~:text=Ada%20Lovelace%2C%20an%20English%20mathematician,larger%20potential%20than%20mathematical%20calculation.
 
-Goyal S. (2023, Mar 24). A Detailed History Of C++ Explained With Timeline Infographic. unstop. https://unstop.com/blog/history-of-cpp
+Goyal S. (2023, Mar 24). A Detailed History Of C++ Explained With Timeline Infographic. unstop. 
+https://unstop.com/blog/history-of-cpp
+
+CHARLES BABBAGE INSTITUTE (n.d.). Who was Charles Babbage?. cse.umn.edu. 
+https://cse.umn.edu/cbi/who-was-charles-babbage#:~:text=In%201821%20Babbage%20invented%20the,but%20any%20kind%20of%20calculation.
+
+Merzbach U. C. (1977). Georg Scheutz and the First Printing Calculator. Smithsonian Libraries and Archives. 
+https://repository.si.edu/handle/10088/2435
+
+Indeed editorial team. (2024, Apr 8). 11 Basic Components of Computer Hardware: Tips for Technicians. indeed.com. 
+https://www.indeed.com/career-advice/career-development/what-are-basic-components-of-computer-hardware
