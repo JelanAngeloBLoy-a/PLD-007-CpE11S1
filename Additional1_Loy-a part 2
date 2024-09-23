@@ -1,0 +1,50 @@
+Write an algorithm to read 100 numbers and then display the sum. 
+1.Start
+2.Initialize i, j=100, and sum=0 
+3.Compute i value in for = (i = 0; i <= j; i++;) 
+4.Display the computed i in the body of for loop
+5.If the computed i value is true then go back to step 3
+6.If the computed i value is false then head to step 9
+7.Compute sum+=i 
+8.Display the sum
+9.Stop
+
+Write an algorithm to read two numbers then display the largest.
+1.Start
+2.Initialize num1=0 and num2=0
+3.Input values of num1 and num2
+4. Compute for the greater than and smaller than of the two variables.
+num1>num2, num1<2
+5.If num1 is > num2, then the largest number is num 1, and If num1 is > num2, then the largest number is num 2
+6.Display the largest 
+7.Stop
+
+Write an algorithm to read two numbers then display the smallest
+1.Start
+2.Initialize num1=0 and num2=0
+3.Input values of num1 and num2
+4. Compute for the greater than and smaller than of the two variables.
+num1>num2, num1<2
+5.If num1 is > num2, then the smallest number is num 2 and If num1 is > num2, then the smallest number is num 1
+6.Display the smallest 
+7.Stop
+
+Write an algorithm to read three numbers then display the largest.
+1.Start
+2.Initialize num1, num2, and num3
+3.Input values of num1, num2, and num3 
+4.Process if num1 is > num2 and if num 1 is > than 3, then else if num2> num 1 and else if num 2 > num3, and then else num 3
+5.Compute if num1 > num2 and num 1 > than 3 then the largest is num1 or else if num2> num 1 and num 2 > num3 then the largest is num 2 and then else num 3 then the largest is num3.
+6.Display the largest 
+7.Stop
+
+Write an algorithm to read 100 numbers then display the largest.
+1.Start
+2.Initialize i, j=100, and largest 
+3.Compute i value in for = (i = 0; i <= j; i++;) 
+4.Display the computed i in the body of for loop 
+5.If the computed i value is true then go back to step 3 
+6.If the computed i value is false then head to step 9
+7.Compute largest=i
+8.Display the largest
+9.Stop
