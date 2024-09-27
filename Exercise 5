@@ -9,7 +9,8 @@ int main ()
     char  operation;
     float y;
     float result;
-    
+
+  //Inputs//
     cout<<"Enter number 1:";
     cin>> x;
     
@@ -19,7 +20,7 @@ int main ()
     cout<<"Enter number 2:";
     cin>> y;
     
-    
+    //Process//
     
     switch(operation)
   {
