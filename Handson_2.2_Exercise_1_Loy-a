@@ -21,7 +21,7 @@ int main ()
 	 
 	 
 	 // Add one to the grade counter//
-	  GradeCounter=GradeCounter+1;
+	  GradeCounter++;
 	  
 	// Set the class average to the total divided by ten//
 	int ClassAverage;
