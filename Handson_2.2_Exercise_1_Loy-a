@@ -1,4 +1,3 @@
-#include <iostream>
 using namespace std;
 int main ()
 {
@@ -6,19 +5,13 @@ int main ()
 	int total=0;
 	int GradeCounter=1;
 	
-	
-	if (GradeCounter>1 || (GradeCounter!=10))
-	{
-		cout<<"Move on im just an if statement"<<endl;
-		
-	}
 // While grade counter is less than or equal to ten//	
 	while ((GradeCounter<1) || (GradeCounter=10))
 	{
 //	Input the next grade //
     int grade;
 	
-		cout<<"Input next Grade:";
+		cout<<"Input Grade:";
 		cin>>grade;
 		
 // Add the grade into the total//				
@@ -36,7 +29,7 @@ int main ()
 	
 	//Print the class Average//
 	cout<<"The class average is:"<<ClassAverage<<endl;
-	break;
+	
 		
 		}	
 	return 0;
