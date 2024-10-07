@@ -3,38 +3,19 @@ using namespace std;
 int main ()
 
 {
- int total=0, counter=0;
+ int number;
  
- int grade;
-cout<<"Input grade to continue or -1 to quit:";
-cin>>grade;
-
-
-cout<<"The average is:"<<grade<<endl;	
-
-while ((grade!=-1))
+ cout<<"Insert a number:";
+ cin>>number;
+ 
+ if (number%2==0)
+ {
+ 	cout<<"The number is Even";
+ }
+ 
+ else 
 {
-int totalgrade;
-totalgrade=(total+grade);
-counter++;
-
-cout<<"Input grade:";
-cin>>grade;
-
-
-if ((counter!=0))
-{
-float average;
-average=(totalgrade/counter);
-cout<<"The average is:"<<average<<endl;	
+	cout<<"The number is Odd";
 }
-
-else
-{
-	cout<<"No grades were entered";
-}
-}
-
 	return 0;
 }
-
