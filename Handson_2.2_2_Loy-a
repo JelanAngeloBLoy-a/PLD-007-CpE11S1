@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+int main ()
+
+//Using conditional statements, write a program that computes for 10 percent fare discount of a senior citizen and 8 percent fare discount of a student.// 
+//There will be no discount if not a senior citizen and not a student. The user will be asked to enter age. The minimum fare is 9 pesos.//
+{
+ int item=0;
+ int age;
+ float DiscountPrice;
+ 
+ cout<<"How much is the item?:";
+ cin>>item;
+ cout<<"Insert your age:";
+ cin>>age;
+
+
+if ((age>=4)&&(age<=24))
+{
+ cout<<"Student Discount Applied"<<endl;
+ DiscountPrice=(item-0.10/100);
+ 
+ cout<<"Your total is now:"<<DiscountPrice;
+ 
+ } 
+ 
+
+ else if (age>59)
+ {
+ 	cout<<"Senior Citizen Discount Applied";
+ 	 DiscountPrice=(item-0.08/100);
+ 	 cout<<"Your total is now:"<<DiscountPrice;
+  } 
+  
+  else
+ {
+ 	cout<<"No, discount sorry";
+ }
+ 
+ 
+ 
+ 	return 0;
+}
