@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+//	Set total to zero. Set grade counter to one//
+	int total=0;
+	int GradeCounter=1;
+	
+	
+	if (GradeCounter>1 || (GradeCounter!=10))
+	{
+		cout<<"Move on im just an if statement"<<endl;
+		
+	}
+// While grade counter is less than or equal to ten//	
+	while ((GradeCounter<1) || (GradeCounter=10))
+	{
+//	Input the next grade //
+    int grade;
+	
+		cout<<"Input next Grade:";
+		cin>>grade;
+		
+// Add the grade into the total//				
+	int	gradetotal;
+	 gradetotal=(grade+total);
+	 
+	 
+	 // Add one to the grade counter//
+	  GradeCounter=(GradeCounter+1);
+	  
+	// Set the class average to the total divided by ten//
+	int ClassAverage;
+	ClassAverage=(gradetotal/10);
+	
+	
+	//Print the class Average//
+	cout<<"The class average is:"<<ClassAverage<<endl;
+	break;
+		
+		}	
+	return 0;
+}
