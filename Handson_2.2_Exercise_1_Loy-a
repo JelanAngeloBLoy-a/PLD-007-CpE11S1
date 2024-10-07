@@ -6,7 +6,7 @@ int main ()
 	int GradeCounter=1;
 	
 // While grade counter is less than or equal to ten//	
-	while ((GradeCounter<1) || (GradeCounter=10))
+	while ((GradeCounter<10) || (GradeCounter=10))
 	{
 //	Input the next grade //
     int grade;
