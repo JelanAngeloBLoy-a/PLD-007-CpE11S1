@@ -35,3 +35,4 @@ if ((age>=4)&&(age<=24))
  	cout<<"No, discount sorry";
  }
  	return 0;
+}
