@@ -1,3 +1,4 @@
+#include <iostream>
 using namespace std;
 int main ()
 {
@@ -6,7 +7,7 @@ int main ()
 	int GradeCounter=1;
 	
 // While grade counter is less than or equal to ten//	
-	while ((GradeCounter<10) || (GradeCounter=10))
+	while ((GradeCounter<=10))
 	{
 //	Input the next grade //
     int grade;
@@ -20,7 +21,7 @@ int main ()
 	 
 	 
 	 // Add one to the grade counter//
-	  GradeCounter=(GradeCounter+1);
+	  GradeCounter=GradeCounter+1;
 	  
 	// Set the class average to the total divided by ten//
 	int ClassAverage;
