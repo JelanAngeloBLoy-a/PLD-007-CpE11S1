@@ -2,32 +2,38 @@
 using namespace std;
 int main ()
 
-///Sentinel Controlled Repetition. Given the following pseudocode, create a program that will implement a sentinel controlled repetition.//
-//For example, you can use (-1) as the sentinel value. //
 {
-//Initialize total to zero. Initialize counter to zero//
  int total=0, counter=0;
+ 
+ int grade;
+cout<<"Input grade to continue or -1 to quit:";
+cin>>grade;
 
-//Input the first grade//
-int grade;
+
+cout<<"The average is:"<<grade<<endl;	
+
+while ((grade!=-1))
+{
+int totalgrade;
+totalgrade=(total+grade);
+counter++;
+
 cout<<"Input grade:";
 cin>>grade;
 
-//While the user has not as yet entered the sentinel//
-while (true)
+
+if ((counter!=0))
 {
-//Add this grade into the running total//
-int gradetotal;
-gradetotal=(grade+total);
-
-//Add one to the grade counter//
-counter=counter+1;
-
-
-//Input the next grade (possibly the sentinel)//
-
+float average;
+average=(totalgrade/counter);
+cout<<"The average is:"<<average<<endl;	
 }
-		
-			
+
+else
+{
+	cout<<"No grades were entered";
+}
+}
+
 	return 0;
 }
