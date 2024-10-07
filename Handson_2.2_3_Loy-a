@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+int main ()
+
+///Sentinel Controlled Repetition. Given the following pseudocode, create a program that will implement a sentinel controlled repetition.//
+//For example, you can use (-1) as the sentinel value. //
+{
+//Initialize total to zero. Initialize counter to zero//
+ int total=0, counter=0;
+
+//Input the first grade//
+int grade;
+cout<<"Input grade:";
+cin>>grade;
+
+//While the user has not as yet entered the sentinel//
+while (true)
+{
+//Add this grade into the running total//
+int gradetotal;
+gradetotal=(grade+total);
+
+//Add one to the grade counter//
+counter=counter+1;
+
+
+//Input the next grade (possibly the sentinel)//
+
+}
+		
+			
+	return 0;
+}
