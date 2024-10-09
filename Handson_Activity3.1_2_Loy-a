@@ -1,0 +1,33 @@
+#include <stdio.h>
+int main()
+{
+	float gallons, miles, total;
+	
+
+	while(1)
+	{
+
+	printf("Enter gallons:");
+	scanf("%f",&gallons);
+	
+	    if (gallons!=-1)
+    	{
+    		printf("Enter miles:");
+		    scanf("%f",&miles);
+		
+		    
+		    total=(miles/gallons);
+	   
+	       printf("The miles / gallon for this tank was:%f\n",total);
+		}
+		
+	    else if (gallons==-1)
+        {
+        	printf("Stop\n");
+			break;
+		}
+
+	    
+     }
+	return 0;
+    }
