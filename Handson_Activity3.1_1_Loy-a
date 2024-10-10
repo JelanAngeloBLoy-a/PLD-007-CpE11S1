@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	float Constant=1, AccountNumber, BeginningBalance, TotalCharge, CreditLimit, Balance;
+	float Constant=1, AccountNumber, BeginningBalance, TotalCharge, CreditLimit, Credit, Balance;
 	
 
 	while(Constant=1)
@@ -23,6 +23,9 @@ int main()
 		total=(TotalCharge+BeginningBalance);
 		
 
+		printf("Enter total credit:");
+		scanf("%f",&Credit);
+		
 		printf("Enter total credit limit:");
 		scanf("%f",&CreditLimit);
 		
@@ -31,7 +34,7 @@ int main()
 		
 		if (CreditLimit<5501.00)
 		{
-		Balance=(total-CreditLimit);
+		Balance=(total-Credit);
 			
 		printf("Balance:%f\n",Balance);
 	    }
@@ -42,7 +45,7 @@ int main()
 		
 		if (CreditLimit<1500.00)
 		{
-		Balance=(total-CreditLimit);
+		Balance=(total-Credit);
 			
 		printf("Balance:%f\n",Balance);
 	    }
@@ -53,7 +56,7 @@ int main()
 		
 		if (CreditLimit<800.00)
 		{
-		Balance=(total-CreditLimit);
+		Balance=(total-Credit);
 			
 		printf("Balance:%f\n",Balance);
 	    }
