@@ -4,6 +4,11 @@ int main() {
     int num;
     float radius,pi=3.14159265358979323846, L=0, W, B, H, S ,give, ans;
     
+    
+    printf("(1) Find the Area of a circle\n");
+    printf("(2) Find the Find the area of a rectangle\n");
+    printf("(3) Find the area of a triangle\n");
+    printf("(4) Find the area of a square\n");
     printf("Enter a number: ");
     scanf("%d", &num);
     
