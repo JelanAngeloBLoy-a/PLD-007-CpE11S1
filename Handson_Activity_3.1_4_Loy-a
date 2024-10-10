@@ -4,7 +4,12 @@ int main() {
     int num;
     float cm=2.54, inch=0.393701, feet=3.28084, meter=0.3048, give, ans;
     
-    printf("Enter a number: ");
+    printf("(1) cm - inches\n");
+    printf("(2) inches - cm\n");
+    printf("(3) feet - meter\n");
+    printf("(4) meter - feet\n");
+    
+    printf("Select a number you want to convert: ");
     scanf("%d", &num);
     
     switch(num) {
