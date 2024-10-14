@@ -5,12 +5,11 @@ int main ()
 char Subject;
 float grade, physics, biology, math, computer, chemistry, average;
 
-cout<<"Input G to begin:";
-cin>>Subject;
+bool consistent=true;
 
-switch (Subject)
+switch (consistent)
 {
-case 'G':
+case true:
 cout<< "Physics:";
 cin>>physics;
 
