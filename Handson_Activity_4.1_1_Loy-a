@@ -54,9 +54,38 @@ else if ((average>=70)&&(average<=79))
 	cout<<"Grade level:C";
 }
 
+if ((average>=90)&&(average<=100))
+{
+	cout<<"Grade level:A";
+}
+
+else if ((average>=80)&&(average<=89))
+{
+	cout<<"Grade level:B";
+}
+
+else if ((average>=70)&&(average<=79))
+{
+	cout<<"Grade level:C";
+}
+
+else if ((average>=60)&&(average<=69))
+{
+	cout<<"Grade level:D";
+}
+
+else if ((average>=50)&&(average<=59))
+{
+	cout<<"Grade level:E";
+}
+
+else if ((average>=40)&&(average<=49))
+{
+	cout<<"Grade level:C";
+}
 else 
 {
-	cout<<"Failed";
+	cout<<"Grade level:F";
 }
 
 return 0;
