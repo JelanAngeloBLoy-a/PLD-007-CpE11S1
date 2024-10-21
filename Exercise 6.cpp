@@ -23,11 +23,11 @@ int main()
 	int result = linearSearch(arr,size,target);
 	if (result !=-1)
 	{
-		cout << "Element found at index"<<endl;
+		cout << "Element found at index:"<<result<<endl;
     }
     else
     {
-    	cout << "Elemetn not found"<<endl;
+    	cout << "Element not found"<<endl;
 	}
 	
 	return 0;
