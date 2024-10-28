@@ -14,9 +14,10 @@ int main()
 		
 		if (number<7){
 			
-		
+		cout<< "  "<<endl;
 		cout<<"The Number of the day is "<<number<<" Then that means the day today is: "<<Days_ofTHEWEEK[number]<<endl;
-		
+		cout<< "  "<<endl;
+		cout<< "  "<<endl;
 	}
 	
 	else{
