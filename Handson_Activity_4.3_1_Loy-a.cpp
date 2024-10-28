@@ -9,7 +9,7 @@ int main()
 
 	while (1)
 	{
-	cout<<"Input nuber of the day of the week:";
+	cout<<"Input number of the day of the week:";
 	cin>>number;
 		
 		if (number<7){
