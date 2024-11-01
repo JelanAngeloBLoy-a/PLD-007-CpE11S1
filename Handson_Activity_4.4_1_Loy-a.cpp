@@ -31,7 +31,6 @@
    printf ("According to isupper:\n");
    for (i=0;i<4;i++)
    {
-   	char ch2=upperTest[i];
    	
    	if (isupper(upperTest[i]))
    	 {
