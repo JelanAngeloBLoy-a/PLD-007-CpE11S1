@@ -1,53 +1,67 @@
 #include <stdio.h>
 #include <ctype.h>
 
-int main() {
-    
-    char lowerTest[] = {'p', 'P', '5', '!'};
-
-    printf("According to islower:\n");
-    int i; 
-    for (i = 0; i < 4; i++) {
-        char ch = lowerTest[i];
-        if (islower(ch)) {
-            printf("%c is a lowercase letter\n", ch);
-        } else {
-            printf("%c is not a lowercase letter\n", ch);
-        }
+ int main()
+ {
+   char lowerTest[]={'p','P','5','!'};
+   char ch2;
+   int i;
+   
+   printf ("According to islower:\n");
+   for (i=0;i<4;i++)
+   {
+   	
+   	
+   	if (islower(lowerTest[i]))
+   	 {
+   		printf ( "%c is a lowercase letter\n",lowerTest[i]);
+	 } 
+	 
+   	else
+     {
+   	    printf ("%c is not a lowercase letter\n",lowerTest[i]);
+     }
+   	 
+   	
+   }
+   
+   char upperTest[]={'p','P','5','!'};
+   
+   printf ("    \n");
+   printf ("According to isupper:\n");
+   for (i=0;i<4;i++)
+   {
+   	char ch2=upperTest[i];
+   	
+   	if (isupper(upperTest[i]))
+   	 {
+   		printf ( "%c is a uppercase letter\n",upperTest[i]);
+	 } 
+	 
+   	else
+    {
+   	    printf ("%c is not a uppercase letter\n",upperTest[i]);
     }
-
+   	
+   	
+   }
+   
+   char Conversion[]={'u','7','$'};
+   char Conversion2[]={'L'};
+   
+   for (i=0;i<3;i++)
+   {
+   char	j=toupper(Conversion[i]);
     printf("\n");
-
-    // Test for isupper
-    char upperTest[] = {'D', 'd', '8', '&'};
-
-    printf("According to isupper:\n");
-    for (i = 0; i < 4; i++) {
-        char ch = upperTest[i];
-        if (isupper(ch)) {
-            printf("%c is an uppercase letter\n", ch);
-        } else {
-            printf("%c is not an uppercase letter\n", ch);
-        }
-    }
-
+   	printf ("%c converted to uppercase is %c",Conversion[i],j);
+   }
+   
+   for (i=0;i<1;i++)
+   {
+   char	j=tolower(Conversion2[i]);
     printf("\n");
-
-    
-    char convertToUpper[] = {'u', '7', '$'};
-    char convertToLower[] = {'L'};
-
-    for (i = 0; i < 3; i++) {
-        char ch = convertToUpper[i];
-        char upperCh = toupper(ch);
-        printf("%c converted to uppercase is %c\n", ch, upperCh);
-    }
-
-    for (i = 0; i < 1; i++) {
-        char ch = convertToLower[i];
-        char lowerCh = tolower(ch);
-        printf("%c converted to lowercase is %c\n", ch, lowerCh);
-    }
-
-    return 0;
-}
+   	printf ("%c converted to lowercase is %c",Conversion2[i],j);
+   }
+   
+   return 0;
+ }
