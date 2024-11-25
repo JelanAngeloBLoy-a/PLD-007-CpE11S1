@@ -82,9 +82,9 @@ int main()
 	 break;	
 	 
 	 case 4:
-	 div_t result = div(num1, num2);
-    cout << "\nQuotient: " << result.quot << std::endl;
-    cout << "Remainder: " << result.rem << std::endl;	
+	 div_t sum = div(num1, num2);
+    cout << "\nQuotient: " << sum.quot << std::endl;
+    cout << "Remainder: " << sum.rem << std::endl;	
     
    	cout<<"\n Input number\n";
 	cin>>num1;
