@@ -21,7 +21,7 @@ int binarySearch(int arr[], int size, int target)
 		}
 		else
 		{
-			right=mid+1; //search in the left half
+			right=mid-1; //search in the left half
 		}
 	
 	}
